@@ -1,2 +1,2 @@
 # gitcheatsheet
-A list of Git commands from git.com
+Commands to use to upload a jupyter notebook to github
